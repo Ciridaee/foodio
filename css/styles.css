@@ -1,0 +1,232 @@
+body {
+  background-color: #E4DCCF;
+  font-family: 'Abril Fatface', cursive;
+  margin: 0;
+}
+
+.top {
+  background-color: #F0EBE3;
+  height: 670px;
+  padding-bottom: -1.5em;
+}
+
+.table1 {
+  padding-top: 80px;
+  margin-left: 37%;
+}
+
+.paragraph1 {
+  /*margin-left: 33%*/
+  width: 23%;
+}
+
+.siteName {
+  font-family: 'Abril Fatface', cursive;
+}
+
+.bulut1 {
+  top: 90px;
+  left: 330px;
+  position: absolute;
+}
+
+.bulut2 {
+  top: 200px;
+  right: 390px;
+  position: absolute;
+}
+
+.topleft {
+  position: absolute;
+  left: 240px;
+  top: 300px;
+}
+
+.topright {
+  position: absolute;
+  right: 240px;
+  top: 300px;
+}
+
+.bottomleft {
+  position: absolute;
+  left: 70px;
+  top: 450px;
+}
+
+.bottomright {
+  position: absolute;
+  right: 70px;
+  top: 450px;
+}
+
+.gordon {
+  position: absolute;
+  left: 510px;
+  top: 400px;
+}
+
+.gordonp {
+  position: absolute;
+  left: 520px;
+  top: 360px;
+}
+
+.textbox {
+  position: absolute;
+  left: 600px;
+  top: 500px;
+}
+
+.gordont {
+  position: absolute;
+  left: 620px;
+  top: 540px;
+}
+
+.middle {
+  background-color: #7D9D9C;
+  height: 400px;
+}
+
+.promotion {
+  color: #E4DCCF;
+  position: absolute;
+  padding-top: 20px;
+  padding-left: 50px;
+  font-family: 'Satisfy', cursive;
+}
+.promotiont{
+  position: absolute;
+  color: #F0EBE3;
+  font-family: 'Kanit', sans-serif;
+  padding-top: 65px;
+  padding-left: 45px;
+}
+.using{
+  color: #E4DCCF;
+  position: absolute;
+  padding-top: 140px;
+  padding-left: 50px;
+  font-family: 'Satisfy', cursive;
+}
+.usingleft{
+  position: absolute;
+  color: #F0EBE3;
+  font-family: 'Kanit', sans-serif;
+}
+.usingright{
+  position: absolute;
+  color: #F0EBE3;
+  font-family: 'Kanit', sans-serif;
+}
+#a{
+  padding-top: 190px;
+  padding-left: 45px;
+}
+#b{
+  padding-top: 230px;
+  padding-left: 45px;
+}
+#c{
+  padding-top: 270px;
+  padding-left: 45px;
+}
+#d{
+  padding-top: 210px;
+  padding-left: 750px;
+}
+#e{
+  padding-top: 260px;
+  padding-left: 750px;
+}
+#x{
+  padding-top: 300px;
+  padding-left: 55px;
+}
+.hr1 {
+  background-color: #F0EBE3;
+  position: absolute;
+  border-style: dotted none none none;
+  /* yazdığımız none kadar dikdörtgen şeklindeki
+  nokta kümesinden bir kenar eksildi mesela burada sadece üstteki kaldı */
+  height: 2px;
+  border-width: 4px;
+  width: 5%;
+  border-color: #7D9D9C;
+  border-width: 8px;
+  margin-top: 300px;
+  margin-left: 50%;
+}
+.hr2 {
+  background-color: #7D9D9C;
+  position: absolute;
+  border-style: dotted none none none;
+  /* yazdığımız none kadar dikdörtgen şeklindeki
+  nokta kümesinden bir kenar eksildi mesela burada sadece üstteki kaldı */
+  height: 2px;
+  border-width: 4px;
+  width: 5%;
+  border-color: #F0EBE3;
+  border-width: 8px;
+  margin-top: 10px;
+  margin-left: 50%;
+}
+.hr3 {
+  background-color: #7D9D9C;
+  position: absolute;
+  border-style: dotted none none none;
+  /* yazdığımız none kadar dikdörtgen şeklindeki
+  nokta kümesinden bir kenar eksildi mesela burada sadece üstteki kaldı */
+  height: 2px;
+  border-width: 4px;
+  width: 5%;
+  border-color: #E4DCCF;
+  border-width: 8px;
+  margin-top: 380px;
+  margin-left: 50%;
+}
+.hr4 {
+  background-color: #E4DCCF;
+  position: absolute;
+  border-style: dotted none none none;
+  /* yazdığımız none kadar dikdörtgen şeklindeki
+  nokta kümesinden bir kenar eksildi mesela burada sadece üstteki kaldı */
+  height: 2px;
+  border-width: 4px;
+  width: 5%;
+  border-color: #7D9D9C;
+  border-width: 8px;
+  margin-top: 20px;
+  margin-left: 50%;
+}
+.bottom{
+  height: 1000px;
+}
+.comments{
+  color: #7D9D9C;
+  position: absolute;
+  font-family: 'Satisfy', cursive;
+  padding-top: 30px;
+  padding-left: 50px;
+}
+.furkan{
+  position: absolute;
+  padding-top: 120px;
+  padding-left: 40px;
+}
+.ısıl{
+  position: absolute;
+  padding-top: 320px;
+  padding-left: 1170px;
+}
+.cagrı{
+  position: absolute;
+  padding-top: 520px;
+  padding-left: 40px;
+}
+.gizem{
+  position: absolute;
+  padding-top: 720px;
+  padding-left: 1170px;
+}
