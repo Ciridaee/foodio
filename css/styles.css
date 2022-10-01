@@ -11,13 +11,16 @@ body {
 }
 
 .table1 {
-  padding-top: 80px;
+  padding-top: 6%;
   margin-left: 37%;
 }
 
 .paragraph1 {
   /*margin-left: 33%*/
   width: 23%;
+  position: absolute;
+  margin-top: -1%;
+  padding-left: 37%;
 }
 
 .siteName {
@@ -25,125 +28,136 @@ body {
 }
 
 .bulut1 {
-  top: 90px;
-  left: 330px;
+  top: 8%;
+  left: 25%;
   position: absolute;
 }
 
 .bulut2 {
-  top: 200px;
-  right: 390px;
+  top:25%;
+  right: 27%;
   position: absolute;
 }
 
 .topleft {
   position: absolute;
-  left: 240px;
-  top: 300px;
+  left: 20%;
+  top: 40%;
 }
 
 .topright {
   position: absolute;
-  right: 240px;
-  top: 300px;
+  right: 20%;
+  top: 40%;
 }
 
 .bottomleft {
   position: absolute;
-  left: 70px;
-  top: 450px;
+  left: 7%;
+  top: 60%;
 }
 
 .bottomright {
   position: absolute;
-  right: 70px;
-  top: 450px;
+  right: 7%;
+  top: 60%;
 }
 
 .gordon {
   position: absolute;
-  left: 510px;
-  top: 400px;
+  left: 36.5%;
+  top: 48%;
 }
 
 .gordonp {
   position: absolute;
-  left: 520px;
-  top: 360px;
+  left: 37.3%;
+  top: 43%;
 }
 
 .textbox {
   position: absolute;
-  left: 600px;
-  top: 500px;
+  left: 43.5%;
+  top: 62%;
 }
 
 .gordont {
   position: absolute;
-  left: 620px;
-  top: 540px;
+  left: 45%;
+  top: 68%;
 }
 
 .middle {
   background-color: #7D9D9C;
-  height: 400px;
+  height: 450px;
 }
 
 .promotion {
   color: #E4DCCF;
   position: absolute;
-  padding-top: 20px;
-  padding-left: 50px;
+  padding-top: 2%;
+  padding-left: 4.5%;
   font-family: 'Satisfy', cursive;
 }
-.promotiont{
+
+.promotiont {
   position: absolute;
   color: #F0EBE3;
   font-family: 'Kanit', sans-serif;
-  padding-top: 65px;
-  padding-left: 45px;
+  padding-top: 4.8%;
+  padding-left: 4%;
 }
-.using{
+
+.using {
   color: #E4DCCF;
   position: absolute;
-  padding-top: 140px;
-  padding-left: 50px;
+  padding-top: 10%;
+  padding-left: 4%;
   font-family: 'Satisfy', cursive;
 }
-.usingleft{
+
+.usingleft {
   position: absolute;
   color: #F0EBE3;
   font-family: 'Kanit', sans-serif;
 }
-.usingright{
+
+.usingright {
   position: absolute;
   color: #F0EBE3;
   font-family: 'Kanit', sans-serif;
 }
-#a{
-  padding-top: 190px;
-  padding-left: 45px;
+
+#a {
+  padding-top: 13.2%;
+  padding-left: 3.3%;
 }
-#b{
-  padding-top: 230px;
-  padding-left: 45px;
+
+#b {
+  padding-top: 16.5%;
+  padding-left: 3.3%;
 }
-#c{
-  padding-top: 270px;
-  padding-left: 45px;
+
+#c {
+  padding-top: 19.8%;
+  padding-left: 3.3%;
 }
-#d{
-  padding-top: 210px;
-  padding-left: 750px;
+
+#d {
+  padding-top: 15%;
+  padding-left: 55%;
 }
-#e{
-  padding-top: 260px;
-  padding-left: 750px;
+
+#e {
+  padding-top: 19%;
+  padding-left: 55%;
 }
-#x{
-  padding-top: 300px;
-  padding-left: 55px;
+
+#x {
+  padding-top: 22.2%;
+  padding-left: 3.8%;
 }
+
 .hr1 {
   background-color: #F0EBE3;
   position: absolute;
@@ -155,9 +169,10 @@ body {
   width: 5%;
   border-color: #7D9D9C;
   border-width: 8px;
-  margin-top: 300px;
+  margin-top: 28.5%;
   margin-left: 50%;
 }
+
 .hr2 {
   background-color: #7D9D9C;
   position: absolute;
@@ -169,9 +184,10 @@ body {
   width: 5%;
   border-color: #F0EBE3;
   border-width: 8px;
-  margin-top: 10px;
+  margin-top: 1%;
   margin-left: 50%;
 }
+
 .hr3 {
   background-color: #7D9D9C;
   position: absolute;
@@ -183,9 +199,10 @@ body {
   width: 5%;
   border-color: #E4DCCF;
   border-width: 8px;
-  margin-top: 380px;
+  margin-top: 31%;
   margin-left: 50%;
 }
+
 .hr4 {
   background-color: #E4DCCF;
   position: absolute;
@@ -197,36 +214,78 @@ body {
   width: 5%;
   border-color: #7D9D9C;
   border-width: 8px;
-  margin-top: 20px;
+  margin-top: 1%;
   margin-left: 50%;
 }
-.bottom{
+
+.bottom {
   height: 1000px;
 }
-.comments{
+
+.comments {
   color: #7D9D9C;
   position: absolute;
   font-family: 'Satisfy', cursive;
   padding-top: 30px;
   padding-left: 50px;
 }
-.furkan{
+
+.furkan {
   position: absolute;
   padding-top: 120px;
   padding-left: 40px;
 }
-.ısıl{
+
+.ısıl {
   position: absolute;
   padding-top: 320px;
   padding-left: 1170px;
 }
-.cagrı{
+
+.cagrı {
   position: absolute;
   padding-top: 520px;
   padding-left: 40px;
 }
-.gizem{
+
+.gizem {
   position: absolute;
   padding-top: 720px;
   padding-left: 1170px;
+}
+
+.commentleft {
+  position: absolute;
+  padding-left: 18%;
+  color: #576F72;
+  width: 70%;
+}
+
+.commentright {
+  position: absolute;
+  padding-left: 15%;
+  color: #576F72;
+  width: 70%;
+}
+#cleft{
+  padding-top: 10%;
+}
+#cleft2{
+  padding-top: 40%;
+}
+#cright{
+  padding-top: 25%;
+}
+#cright2{
+  padding-top: 55%;
+}
+.bottom-container{
+  font-family: 'Satisfy', cursive;
+}
+.contact{
+  color: #7D9D9C;
+  position: absolute;
+  font-family: 'Satisfy', cursive;
+  margin-top: -5%;
+  padding-left: 45%;
 }
